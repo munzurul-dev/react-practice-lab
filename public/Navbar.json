@@ -1,0 +1,8 @@
+[
+  { "name": "Home", "link": "/" },
+  { "name": "Shop", "link": "/shop" },
+  { "name": "Categories", "link": "/categories" },
+  { "name": "Deals", "link": "/deals" },
+  { "name": "Orders", "link": "/orders" },
+  { "name": "Support", "link": "/support" }
+]
