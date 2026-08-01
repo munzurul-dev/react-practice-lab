@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "plan": "Basic",
+    "price": 2500,
+    "duration": "/month",
+    "description": "For businesses ready to level up digital presence with a professional website and brand identity.",
+    "buttonText": "Start Now",
+    "buttonColor": "gray",
+    "badge": "",
+    "recommended": false,
+    "team": "3 Teams",
+    "features": [
+      { "id": 1, "title": "Meet and Slack channels" },
+      { "id": 2, "title": "1 active project at a time" },
+      { "id": 3, "title": "Website design and development" },
+      { "id": 4, "title": "Basic brand identity" },
+      { "id": 5, "title": "Monthly design iterations" },
+      { "id": 6, "title": "Response within 48hrs" }
+    ]
+  },
+  {
+    "id": 2,
+    "plan": "Advance",
+    "price": 5000,
+    "duration": "/month",
+    "description": "For companies who need ongoing design and development across web, brand and product.",
+    "buttonText": "Start Now",
+    "buttonColor": "red",
+    "badge": "Best Value",
+    "recommended": true,
+    "team": "5 Teams",
+    "features": [
+      { "id": 1, "title": "Meet and Slack channels" },
+      { "id": 2, "title": "2 active projects at a time" },
+      { "id": 3, "title": "Product design strategy" },
+      { "id": 4, "title": "Full brand identity" },
+      { "id": 5, "title": "Weekly design iterations" },
+      { "id": 6, "title": "Response within 24hrs" }
+    ]
+  },
+  {
+    "id": 3,
+    "plan": "Pro",
+    "price": 7500,
+    "duration": "/month",
+    "description": "For established businesses who need a dedicated team to handle all their digital needs.",
+    "buttonText": "Start Now",
+    "buttonColor": "dark",
+    "badge": "",
+    "recommended": false,
+    "team": "Unlimited Teams",
+    "features": [
+      { "id": 1, "title": "Meet and Slack channels" },
+      { "id": 2, "title": "3 active projects at a time" },
+      { "id": 3, "title": "Advanced motion graphics" },
+      { "id": 4, "title": "Unlimited design iterations" },
+      { "id": 5, "title": "Same day response" },
+      { "id": 6, "title": "Priority support" }
+    ]
+  }
+]

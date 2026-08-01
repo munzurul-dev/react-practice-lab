@@ -32,7 +32,7 @@ const Navbar = ({ navData }) => {
           )}
         </span>
         <ul
-          className={`md:hidden bg-[#86c3d657] p-4 ${open ? " top-15 -right-2" : "-right-64 top-15"} rounded-2xl font-bold space-y-2 absolute duration-1000`}
+          className={`md:hidden bg-green-600  p-4 ${open ? " top-15 -right-2" : "-right-64 top-15"} rounded-2xl font-bold space-y-2 absolute duration-1000`}
         >
           {links}
         </ul>
