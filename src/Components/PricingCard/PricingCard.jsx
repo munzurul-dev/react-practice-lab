@@ -4,7 +4,7 @@ const PricingCard = ({ cardData }) => {
   return (
     <div
       className={`
-    w-full max-w-sm rounded-3xl border  border-gray-200 bg-white p-8 mt-5 shadow-lg hover:shadow-2xl transition-all duration-300 hover:-translate-y-2 relative ${cardData.recommended === true ? "border-t-4 border-t-blue-600 rounded-tl-2xl rounded-tr-2xl top-0 md:top-56 lg:top-0 lg:-mt-6" : ""}
+    w-full max-w-sm mx-auto rounded-3xl border  border-gray-200 bg-white p-8 mt-5 shadow-lg hover:shadow-2xl transition-all duration-300 hover:-translate-y-2 relative ${cardData.recommended === true ? "border-t-4 border-t-blue-600 rounded-tl-2xl rounded-tr-2xl top-0 md:top-56 lg:top-0 lg:-mt-6" : ""}
     `}
     >
       {cardData.recommended === true ? (
