@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "month": "Jan",
+    "users": 120,
+    "revenue": 18000,
+    "sales": 85,
+    "orders": 95
+  },
+  {
+    "id": 2,
+    "month": "Feb",
+    "users": 180,
+    "revenue": 25000,
+    "sales": 120,
+    "orders": 140
+  },
+  {
+    "id": 3,
+    "month": "Mar",
+    "users": 260,
+    "revenue": 34000,
+    "sales": 165,
+    "orders": 190
+  },
+  {
+    "id": 4,
+    "month": "Apr",
+    "users": 310,
+    "revenue": 42000,
+    "sales": 210,
+    "orders": 235
+  },
+  {
+    "id": 5,
+    "month": "May",
+    "users": 390,
+    "revenue": 51000,
+    "sales": 255,
+    "orders": 280
+  },
+  {
+    "id": 6,
+    "month": "Jun",
+    "users": 470,
+    "revenue": 62000,
+    "sales": 310,
+    "orders": 340
+  },
+  {
+    "id": 7,
+    "month": "Jul",
+    "users": 560,
+    "revenue": 74000,
+    "sales": 365,
+    "orders": 405
+  }
+]
